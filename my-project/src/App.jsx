@@ -1,7 +1,7 @@
 function App() {
 
     return (
-        <button className="animated-chevron splash animated-border">Custom Button</button>
+        <button className="bg-blue-500 hover:bg-blue-600 rounded-[20px] text-white font-bold py-2 px-4 focus:outline-none focus:shadow-outline animated-border from-red-600 via-red-400 to-blue-500 transition-all">Custom Button</button>
 
     )
 }
